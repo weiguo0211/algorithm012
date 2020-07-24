@@ -1,4 +1,4 @@
-public class Solution {
+public class MergeSortedLinkedList {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> visited = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<TreeNode>();
